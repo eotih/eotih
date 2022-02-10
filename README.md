@@ -19,7 +19,7 @@ I'm currently a Senior Student at [University of Economics and Finance](https://
 - 🌱 I’m currently learning [NodeJS](https://nodejs.org/en/) and [ReactJS](https://reactjs.org/)
 - 🤔 I’m looking for help with [ReactJS](https://reactjs.org/) and [NodeJS](https://nodejs.org/)
 - ⚡ Fun fact: I’m a fan of [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  -->
+
 
 ### 🛠️ Languages and Tools
 
@@ -31,4 +31,4 @@ I'm currently a Senior Student at [University of Economics and Finance](https://
 ![React Native](https://img.shields.io/badge/React%20Native-282c34?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Express](https://img.shields.io/badge/Express-404d59?style=for-the-badge&logo=express&logoColor=61dafb)
 ![NodeJS](https://img.shields.io/badge/Node.js-3e863d?style=for-the-badge&logo=node.js&logoColor=ffffff)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-black?style=for-the-badge&logo=dotnet&logoColor=ffffff)
+![ASP.NET](https://img.shields.io/badge/ASP.NET MVC-black?style=for-the-badge&logo=dotnet&logoColor=ffffff)
