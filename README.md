@@ -12,7 +12,7 @@ I'm currently a Senior Student at [University of Economics and Finance](https://
 
 ## 👦 More about me
 
-<img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" align="right" width="400" />
+<img src="https://media.giphy.com/media/l0HlMmCTZsADKuIWQ/giphy.gif" align="right" width="400" />
 
 - 🔭 I’m currently working on some of my side projects
 - ❤️ Hobbies: I love coding
