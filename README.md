@@ -12,7 +12,7 @@ I'm currently a Senior Student at [University of Economics and Finance](https://
 
 ## 👦 More about me
 
-<img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" align="right" width="400" />
+<a href="https://app.daily.dev/letronghieu"><img src="https://api.daily.dev/devcards/43313659a4ea4172a9bcb4f0b1c421b9.png?r=224" width="400" alt="Hieu Le's Dev Card"/></a>
 
 - 🔭 I’m currently working on some of my side projects
 - ❤️ Hobbies: I love coding
