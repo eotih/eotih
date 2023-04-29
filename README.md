@@ -5,7 +5,7 @@
   Hi, I'm Eotih!
 </h2>
 
-I'm currently a Senior Student at [University of Economics and Finance](https://www.uef.edu.vn/en) in Ho Chi Minh City, Vietnam. I have a great passion in full-stack web development.
+I'm currently a Junior Developer at [NECVN](https://vn.nec.com/) in Ho Chi Minh City, Vietnam. I have a great passion in full-stack web development.
 
 [![Facebook profile](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/eotihvn/)
 [![linkedIn profile](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eotih/)
